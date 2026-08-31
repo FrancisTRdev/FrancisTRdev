@@ -16,7 +16,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="250" src="https://i.redd.it/1rsjt6gadpo21.gif"  />
+  <img data-importer="image" height="250" src="./assets/Cover.gif" />
 </div>
 
 ###
