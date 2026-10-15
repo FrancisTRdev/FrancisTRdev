@@ -56,3 +56,5 @@
 </picture>
 
 ###
+
+<img width="1600" height="1131" alt="hacktoberfest-2026-completionist-certificate-2026(3)" src="https://github.com/user-attachments/assets/eb9b0c64-bd89-40c5-93a3-42fe5c2759fa" />
