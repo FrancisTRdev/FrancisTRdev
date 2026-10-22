@@ -58,3 +58,13 @@
 ###
 
 <img width="1600" height="1131" alt="hacktoberfest-2026-completionist-certificate-2026(3)" src="https://github.com/user-attachments/assets/eb9b0c64-bd89-40c5-93a3-42fe5c2759fa" />
+
+###
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/FrancisTRdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="FrancisTRdev" height="30" width="40" /></a>
+<a href="https://dev.to/francistrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="francistrdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/francistran6832" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francistran6832" height="30" width="40" /></a>
+<a href="https://leetcode.com/FrancisTRdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="FrancisTRdev" height="30" width="40" /></a>
+</p>
