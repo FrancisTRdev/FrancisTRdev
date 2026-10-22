@@ -49,14 +49,6 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FrancisTRdev/FrancisTRdev/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FrancisTRdev/FrancisTRdev/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FrancisTRdev/FrancisTRdev/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
-
-###
-
 <img width="1600" height="1131" alt="hacktoberfest-2026-completionist-certificate-2026(3)" src="https://github.com/user-attachments/assets/eb9b0c64-bd89-40c5-93a3-42fe5c2759fa" />
 
 ###
