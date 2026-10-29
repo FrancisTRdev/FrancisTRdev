@@ -45,6 +45,12 @@
 
 ###
 
+<h3 align="left">📝 Latest dev.to Articles</h3>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+###
+
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/FrancisTRdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="FrancisTRdev" height="40" width="40" /></a>
