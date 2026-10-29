@@ -21,7 +21,7 @@ jobs:
           node-version: "20"
 
       - name: Run the script
-        run: node scripts/update-articles.js
+        run: node scripts/articles.js
 
       - name: Commit the updated README
         run: |
