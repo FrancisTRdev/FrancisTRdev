@@ -49,16 +49,43 @@
 <!-- ARTICLES:START -->
 <table>
   <tr>
-    <td><a href="https://dev.to/francistrdev/monthly-dev-report-october-2026-1ja7"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftzrbzcftvwzoxwj2cp7o.jpg" width="250"></a></td>
-    <td><a href="https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkwr5z8mzbe8dlvbb81m5.jpg" width="250"></a></td>
-    <td><a href="https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F79tl6zqq4x0zaplgo6t2.jpg" width="250"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://dev.to/francistrdev/monthly-dev-report-october-2026-1ja7">🗓️ Monthly Dev Report: October 2026</a></td>
-    <td><a href="https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9">AI Fatigue? Yea I know.</a></td>
-    <td><a href="https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63">Why you still need a Website Portfolio, even though everyone can Vibe Code it.</a></td>
+    <td align="center" valign="top" width="33.33%">
+      <a href="https://dev.to/francistrdev/monthly-dev-report-october-2026-1ja7">
+        <img src="https://media2.dev.to/dynamic/image/width=500,height=250,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftzrbzcftvwzoxwj2cp7o.jpg" width="100%" style="border-radius:8px;" alt="🗓️ Monthly Dev Report: October 2026">
+      </a>
+      <br><br>
+      <a href="https://dev.to/francistrdev/monthly-dev-report-october-2026-1ja7"><b>🗓️ Monthly Dev Report: October 2026</b></a>
+      <br><br>
+      <sub>📅 Oct 26 &nbsp;•&nbsp; ⏱️ 4 min read</sub>
+      <br>
+      <sub>❤️ 52 &nbsp;•&nbsp; 💬 18</sub>
+    </td>
+    <td align="center" valign="top" width="33.33%">
+      <a href="https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9">
+        <img src="https://media2.dev.to/dynamic/image/width=500,height=250,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkwr5z8mzbe8dlvbb81m5.jpg" width="100%" style="border-radius:8px;" alt="AI Fatigue? Yea I know.">
+      </a>
+      <br><br>
+      <a href="https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9"><b>AI Fatigue? Yea I know.</b></a>
+      <br><br>
+      <sub>📅 Oct 13 &nbsp;•&nbsp; ⏱️ 3 min read</sub>
+      <br>
+      <sub>❤️ 169 &nbsp;•&nbsp; 💬 103</sub>
+    </td>
+    <td align="center" valign="top" width="33.33%">
+      <a href="https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63">
+        <img src="https://media2.dev.to/dynamic/image/width=500,height=250,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F79tl6zqq4x0zaplgo6t2.jpg" width="100%" style="border-radius:8px;" alt="Why you still need a Website Portfolio, even though everyone can Vibe Code it.">
+      </a>
+      <br><br>
+      <a href="https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63"><b>Why you still need a Website Portfolio, even though everyone can Vibe Code it.</b></a>
+      <br><br>
+      <sub>📅 Oct 5 &nbsp;•&nbsp; ⏱️ 7 min read</sub>
+      <br>
+      <sub>❤️ 262 &nbsp;•&nbsp; 💬 260</sub>
+    </td>
   </tr>
 </table>
+
+<p align="right"><a href="https://dev.to/francistrdev"><b>View all articles on dev.to →</b></a></p>
 <!-- ARTICLES:END -->
 
 ###
