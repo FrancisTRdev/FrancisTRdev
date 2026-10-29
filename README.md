@@ -46,8 +46,8 @@
 ###
 
 <h3 align="left">📝 Latest dev.to Articles</h3>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- ARTICLES:START -->
+<!-- ARTICLES:END -->
 
 ###
 
