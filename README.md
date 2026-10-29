@@ -45,14 +45,6 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FrancisTRdev/FrancisTRdev/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FrancisTRdev/FrancisTRdev/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FrancisTRdev/FrancisTRdev/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
-
-###
-
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/FrancisTRdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="FrancisTRdev" height="40" width="40" /></a>
