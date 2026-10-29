@@ -1,0 +1,32 @@
+name: Update dev.to Articles
+
+on:
+  schedule:
+    - cron: "0 6 * * *"    # runs daily at 06:00 UTC
+  workflow_dispatch:        # adds a manual "Run workflow" button
+
+permissions:
+  contents: write           # REQUIRED so the Action can push the updated README
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run the script
+        run: node scripts/update-articles.js
+
+      - name: Commit the updated README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "update dev.to articles"
+          git push
