@@ -47,229 +47,32 @@
 
 <h3 align="left">📝 Latest dev.to Articles</h3>
 <!-- ARTICLES:START -->
-
 ## 📝 Latest dev.to Articles
 
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-<td align="center" valign="top" width="33%">
-      <table
-        width="100%"
-        cellpadding="8"
-        cellspacing="0"
-      >
-        <tr>
-          <td
-            align="center"
-            valign="middle"
-            height="170"
-          >
-            <a href="https://dev.to/francistrdev/monthly-dev-report-october-2026-1ja7">
-              <img
-                src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftzrbzcftvwzoxwj2cp7o.jpg"
-                alt="🗓️ Monthly Dev Report: October 2026"
-                width="300"
-                height="150"
-              />
-            </a>
-          </td>
-        </tr>
-
-        <tr>
-          <td
-            align="center"
-            valign="top"
-            height="76"
-          >
-            <strong>
-              <a
-                href="https://dev.to/francistrdev/monthly-dev-report-october-2026-1ja7"
-                title="🗓️ Monthly Dev Report: October 2026"
-              >
-                🗓️ Monthly Dev Report: October 2026
-              </a>
-            </strong>
-          </td>
-        </tr>
-
-        <tr>
-          <td
-            align="center"
-            valign="middle"
-            height="28"
-          >
-            <sub>
-              📅 Oct 26
-              &nbsp;&bull;&nbsp;
-              ⏱️ 4 min read
-            </sub>
-          </td>
-        </tr>
-
-        <tr>
-          <td
-            align="center"
-            valign="middle"
-            height="28"
-          >
-            <sub>
-              ❤️ 52
-              &nbsp;&bull;&nbsp;
-              💬 18
-            </sub>
-          </td>
-        </tr>
-      </table>
-    </td>
-
-<td align="center" valign="top" width="33%">
-      <table
-        width="100%"
-        cellpadding="8"
-        cellspacing="0"
-      >
-        <tr>
-          <td
-            align="center"
-            valign="middle"
-            height="170"
-          >
-            <a href="https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9">
-              <img
-                src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkwr5z8mzbe8dlvbb81m5.jpg"
-                alt="AI Fatigue? Yea I know."
-                width="300"
-                height="150"
-              />
-            </a>
-          </td>
-        </tr>
-
-        <tr>
-          <td
-            align="center"
-            valign="top"
-            height="76"
-          >
-            <strong>
-              <a
-                href="https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9"
-                title="AI Fatigue? Yea I know."
-              >
-                AI Fatigue? Yea I know.
-              </a>
-            </strong>
-          </td>
-        </tr>
-
-        <tr>
-          <td
-            align="center"
-            valign="middle"
-            height="28"
-          >
-            <sub>
-              📅 Oct 13
-              &nbsp;&bull;&nbsp;
-              ⏱️ 3 min read
-            </sub>
-          </td>
-        </tr>
-
-        <tr>
-          <td
-            align="center"
-            valign="middle"
-            height="28"
-          >
-            <sub>
-              ❤️ 172
-              &nbsp;&bull;&nbsp;
-              💬 103
-            </sub>
-          </td>
-        </tr>
-      </table>
-    </td>
-
-<td align="center" valign="top" width="33%">
-      <table
-        width="100%"
-        cellpadding="8"
-        cellspacing="0"
-      >
-        <tr>
-          <td
-            align="center"
-            valign="middle"
-            height="170"
-          >
-            <a href="https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63">
-              <img
-                src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F79tl6zqq4x0zaplgo6t2.jpg"
-                alt="Why you still need a Website Portfolio, even though everyone can Vibe Code it."
-                width="300"
-                height="150"
-              />
-            </a>
-          </td>
-        </tr>
-
-        <tr>
-          <td
-            align="center"
-            valign="top"
-            height="76"
-          >
-            <strong>
-              <a
-                href="https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63"
-                title="Why you still need a Website Portfolio, even though everyone can Vibe Code it."
-              >
-                Why you still need a Website Portfolio, even though everyone…
-              </a>
-            </strong>
-          </td>
-        </tr>
-
-        <tr>
-          <td
-            align="center"
-            valign="middle"
-            height="28"
-          >
-            <sub>
-              📅 Oct 5
-              &nbsp;&bull;&nbsp;
-              ⏱️ 7 min read
-            </sub>
-          </td>
-        </tr>
-
-        <tr>
-          <td
-            align="center"
-            valign="middle"
-            height="28"
-          >
-            <sub>
-              ❤️ 262
-              &nbsp;&bull;&nbsp;
-              💬 260
-            </sub>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<table width="100%" cellpadding="10" cellspacing="0">
+<tr>
+<td align="center" valign="middle" width="33%"><a href="https://dev.to/francistrdev/monthly-dev-report-october-2026-1ja7"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftzrbzcftvwzoxwj2cp7o.jpg" alt="🗓️ Monthly Dev Report: October 2026" width="300" height="150"></a></td>
+<td align="center" valign="middle" width="33%"><a href="https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkwr5z8mzbe8dlvbb81m5.jpg" alt="AI Fatigue? Yea I know." width="300" height="150"></a></td>
+<td align="center" valign="middle" width="33%"><a href="https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F79tl6zqq4x0zaplgo6t2.jpg" alt="Why you still need a Website Portfolio, even though everyone can Vibe Code it." width="300" height="150"></a></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%" height="72"><strong><a href="https://dev.to/francistrdev/monthly-dev-report-october-2026-1ja7" title="🗓️ Monthly Dev Report: October 2026">🗓️ Monthly Dev Report: October 2026</a></strong></td>
+<td align="center" valign="top" width="33%" height="72"><strong><a href="https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9" title="AI Fatigue? Yea I know.">AI Fatigue? Yea I know.</a></strong></td>
+<td align="center" valign="top" width="33%" height="72"><strong><a href="https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63" title="Why you still need a Website Portfolio, even though everyone can Vibe Code it.">Why you still need a Website Portfolio, even though everyone…</a></strong></td>
+</tr>
+<tr>
+<td align="center" valign="middle" width="33%" height="32"><sub>📅 Oct 26 &nbsp;&bull;&nbsp; ⏱️ 4 min read</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>📅 Oct 13 &nbsp;&bull;&nbsp; ⏱️ 3 min read</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>📅 Oct 5 &nbsp;&bull;&nbsp; ⏱️ 7 min read</sub></td>
+</tr>
+<tr>
+<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 52 &nbsp;&bull;&nbsp; 💬 18</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 172 &nbsp;&bull;&nbsp; 💬 103</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 262 &nbsp;&bull;&nbsp; 💬 260</sub></td>
+</tr>
 </table>
 
-<p align="right">
-  <a href="https://dev.to/francistrdev">
-    <strong>View all articles on dev.to →</strong>
-  </a>
-</p>
-
+<p align="right"><a href="https://dev.to/francistrdev"><strong>View all articles on dev.to →</strong></a></p>
 <!-- ARTICLES:END -->
 
 ###
