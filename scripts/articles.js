@@ -173,8 +173,7 @@ async function updateReadme() {
     selectedArticles
   );
 
-  const articleSection = `<!-- ARTICLES:START -->
-## 📝 Latest dev.to Articles
+const articleSection = `<!-- ARTICLES:START -->
 
 ${articleTable}
 
