@@ -1,5 +1,5 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=69&section=header&reversal=false&text=Hey%20I'm%20Francis!&fontSize=40&fontColor=00FFFF&fontAlign=50&fontAlignY=30&stroke=-&animation=fadeIn&desc=Full-Stack%20Developer&descSize=20&descAlign=50&descAlignY=90&textBg=false&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=69&section=header&reversal=false&text=Hey%20I'm%20Francis!&fontSize=40&fontColor=00FFFF&fontAlign=50&fontAlignY=30&stroke=-&animation=fadeIn&desc=Senior%20Full-Stack%20Developer&descSize=20&descAlign=50&descAlignY=90&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
@@ -45,7 +45,7 @@
 
 ###
 
-<h3 align="left">📝 Latest dev.to Articles</h3>
+## 📝 Latest dev.to Articles
 <!-- ARTICLES:START -->
 
 <table width="100%" cellpadding="10" cellspacing="0">
@@ -76,7 +76,7 @@
 
 ###
 
-<h3 align="left">📫 Connect with me:</h3>
+## 📫 Connect with me:
 <p align="left">
 <a href="https://github.com/FrancisTRdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="FrancisTRdev" height="40" width="40" /></a>
 <a href="https://dev.to/francistrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="francistrdev" height="40" width="40" /></a>
