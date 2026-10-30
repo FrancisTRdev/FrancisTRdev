@@ -47,7 +47,6 @@
 
 <h3 align="left">📝 Latest dev.to Articles</h3>
 <!-- ARTICLES:START -->
-## 📝 Latest dev.to Articles
 
 <table width="100%" cellpadding="10" cellspacing="0">
 <tr>
