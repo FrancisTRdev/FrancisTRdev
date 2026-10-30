@@ -4,13 +4,6 @@
 
 ###
 
-<div data-importer="socials" align="center">
-  <a href="https://linkedin.com/in/francistran6832" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" /></a>
-  <a href="https://dev.to/francistrdev" target="_blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="devto logo"  /></a>
-</div>
-
-###
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="120" />
   <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="120" />
@@ -82,9 +75,7 @@
 ###
 
 ## 📫 Connect with me:
-<p align="left">
-<a href="https://github.com/FrancisTRdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="FrancisTRdev" height="40" width="40" /></a>
-<a href="https://dev.to/francistrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="francistrdev" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/francistran6832" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francistran6832" height="40" width="40" /></a>
-<a href="https://leetcode.com/FrancisTRdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="FrancisTRdev" height="40" width="40" /></a>
-</p>
+<div data-importer="socials" align="center">
+  <a href="https://linkedin.com/in/francistran6832" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" /></a>
+  <a href="https://dev.to/francistrdev" target="_blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="devto logo"  /></a>
+</div>
