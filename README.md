@@ -69,7 +69,7 @@
       <br><br>
       <sub>📅 Oct 13 &nbsp;•&nbsp; ⏱️ 3 min read</sub>
       <br>
-      <sub>❤️ 169 &nbsp;•&nbsp; 💬 103</sub>
+      <sub>❤️ 172 &nbsp;•&nbsp; 💬 103</sub>
     </td>
     <td align="center" valign="top" width="33.33%">
       <a href="https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63">
