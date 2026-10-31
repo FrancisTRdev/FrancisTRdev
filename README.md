@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img width="1920" height="1009" alt="image" src="https://github.com/user-attachments/assets/dcfbb4d3-9033-4be6-878d-2443c48bccb9" />
+  <img width="1920" height="1009" alt="image" src="/assets/cover.png" />
 </div>
 
 ###
