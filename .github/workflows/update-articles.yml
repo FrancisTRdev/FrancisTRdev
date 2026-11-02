@@ -1,4 +1,4 @@
-name: Update dev.to Articles
+name: Up-to-Date
 
 on:
   schedule:
