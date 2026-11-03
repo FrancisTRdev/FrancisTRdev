@@ -41,12 +41,20 @@
 ## 🏆 Achievements
 
 
-### 🥇 Awards & Competitions
+#### 🥇 Awards & Competitions
 
 | 🏅 Award | 📅 Year |
 |---|---|
-| 🥇 [Winner of the Google Gemini Writing Challenge](https://dev.to/francistrdev/i-used-google-gemini-for-the-first-time-a-deep-analysis-of-my-experience-so-far-2n12) | Spring 2026 |
 | 🥇 [HacktoberFest Completionist++](https://github.com/user-attachments/assets/b5e70584-9b63-4cc0-83e4-42a443986cbc) | Fall 2026 |
+| 🥇 [Winner of the "Google Gemini Writing Challenge"](https://dev.to/francistrdev/i-used-google-gemini-for-the-first-time-a-deep-analysis-of-my-experience-so-far-2n12) | Spring 2026 |
+
+<br>
+
+#### 📝 Publication
+
+| Article | 📅 Year |
+|---|---|
+[Dev.to's Official Help Guide](https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach) | Spring 2026 |
 
 
 
