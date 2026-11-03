@@ -48,6 +48,9 @@
 | 🥇 Winner of the Google Gemini Writing Challenge | Spring 2026 |
 | 🎖️ HacktoberFest Completionist++ | Fall 2026 |
 
+<img width="1600" height="1131" alt="hacktoberfest-2026-completionist-plus-plus-certificate-2026(5)" src="https://github.com/user-attachments/assets/b5e70584-9b63-4cc0-83e4-42a443986cbc" />
+
+
 
 ###
 
