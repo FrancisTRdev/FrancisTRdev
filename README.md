@@ -38,6 +38,20 @@
 
 ###
 
+## 🏆 Achievements
+
+
+### 🥇 Awards & Competitions
+
+| 🏅 Award | 📅 Year |
+|---|---|
+| 🥇 Winner of the Google Gemini Writing Challenge | Spring 2026 |
+| 🎖️ HacktoberFest Completionist++ | Fall 2026 |
+
+
+###
+
+
 ## 📝 Latest dev.to Articles
 <!-- ARTICLES:START -->
 
