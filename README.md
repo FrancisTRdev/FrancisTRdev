@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img width="1920" height="1009" alt="image" src="/assets/cover.png" />
+  <img width="100%" height="auto" alt="image" src="/assets/cover.png" />
 </div>
 
 ###
@@ -40,7 +40,7 @@
 
 ## 🏆 Achievements
 
-<table width="100%" cellpadding="12" cellspacing="0">
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width: 100%; table-layout: fixed;">
 <tr>
 <td valign="top" width="65%">
 
@@ -72,7 +72,7 @@
 ## 📝 Latest dev.to Articles
 <!-- ARTICLES:START -->
 
-<table width="100%" cellpadding="10" cellspacing="0">
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width: 100%; table-layout: fixed;">
 <tr>
 <td align="center" valign="middle" width="33%"><a href="https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkdrg60peavzloceeysdp.png" alt="This is my first HacktoberFest, and I don&#039;t know what to feel." width="300" height="150"></a></td>
 <td align="center" valign="middle" width="33%"><a href="https://dev.to/francistrdev/monthly-dev-report-october-2026-1ja7"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftzrbzcftvwzoxwj2cp7o.jpg" alt="🗓️ Monthly Dev Report: October 2026" width="300" height="150"></a></td>
