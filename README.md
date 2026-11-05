@@ -40,10 +40,9 @@
 
 ## 🏆 Achievements
 
-<table width="100%" cellpadding="0" cellspacing="0" style="width: 100%; table-layout: fixed;">
-<colgroup><col width="50%"><col width="50%"></colgroup>
+<table width="100%" cellpadding="10" cellspacing="0">
 <tr>
-<td valign="top" width="50%" style="width: 50%; padding: 20px;">
+<td valign="top" width="50%">
 
 #### 🥇 Awards & Competitions
 
@@ -55,7 +54,7 @@
 </table>
 
 </td>
-<td valign="top" width="50%" style="width: 50%; padding: 20px;">
+<td valign="top" width="50%">
 
 #### 📝 Publication
 
