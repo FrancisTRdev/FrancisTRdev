@@ -54,24 +54,24 @@
 
 <table width="100%" cellpadding="10" cellspacing="0">
 <tr>
+<td align="center" valign="middle" width="33%"><a href="https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fluszw2338am8lh3sl1tu.png" alt="How do you truly stand out in Tech?" width="300" height="150"></a></td>
 <td align="center" valign="middle" width="33%"><a href="https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkdrg60peavzloceeysdp.png" alt="This is my first HacktoberFest, and I don&#039;t know what to feel." width="300" height="150"></a></td>
 <td align="center" valign="middle" width="33%"><a href="https://dev.to/francistrdev/monthly-dev-report-october-2026-1ja7"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftzrbzcftvwzoxwj2cp7o.jpg" alt="🗓️ Monthly Dev Report: October 2026" width="300" height="150"></a></td>
-<td align="center" valign="middle" width="33%"><a href="https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkwr5z8mzbe8dlvbb81m5.jpg" alt="AI Fatigue? Yea I know." width="300" height="150"></a></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="33%" height="72"><strong><a href="https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a" title="How do you truly stand out in Tech?">How do you truly stand out in Tech?</a></strong></td>
 <td align="center" valign="top" width="33%" height="72"><strong><a href="https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f" title="This is my first HacktoberFest, and I don&#039;t know what to feel.">This is my first HacktoberFest, and I don&#039;t know what to feel.</a></strong></td>
 <td align="center" valign="top" width="33%" height="72"><strong><a href="https://dev.to/francistrdev/monthly-dev-report-october-2026-1ja7" title="🗓️ Monthly Dev Report: October 2026">🗓️ Monthly Dev Report: October 2026</a></strong></td>
-<td align="center" valign="top" width="33%" height="72"><strong><a href="https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9" title="AI Fatigue? Yea I know.">AI Fatigue? Yea I know.</a></strong></td>
 </tr>
 <tr>
+<td align="center" valign="middle" width="33%" height="32"><sub>📅 Nov 9 &nbsp;&bull;&nbsp; ⏱️ 8 min read</sub></td>
 <td align="center" valign="middle" width="33%" height="32"><sub>📅 Nov 2 &nbsp;&bull;&nbsp; ⏱️ 5 min read</sub></td>
 <td align="center" valign="middle" width="33%" height="32"><sub>📅 Oct 26 &nbsp;&bull;&nbsp; ⏱️ 4 min read</sub></td>
-<td align="center" valign="middle" width="33%" height="32"><sub>📅 Oct 13 &nbsp;&bull;&nbsp; ⏱️ 3 min read</sub></td>
 </tr>
 <tr>
-<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 150 &nbsp;&bull;&nbsp; 💬 87</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 42 &nbsp;&bull;&nbsp; 💬 15</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 150 &nbsp;&bull;&nbsp; 💬 89</sub></td>
 <td align="center" valign="middle" width="33%" height="32"><sub>❤️ 53 &nbsp;&bull;&nbsp; 💬 19</sub></td>
-<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 172 &nbsp;&bull;&nbsp; 💬 104</sub></td>
 </tr>
 </table>
 
