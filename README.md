@@ -69,8 +69,8 @@
 <td align="center" valign="middle" width="33%" height="32"><sub>📅 Oct 26 &nbsp;&bull;&nbsp; ⏱️ 4 min read</sub></td>
 </tr>
 <tr>
-<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 132 &nbsp;&bull;&nbsp; 💬 72</sub></td>
-<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 150 &nbsp;&bull;&nbsp; 💬 91</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 149 &nbsp;&bull;&nbsp; 💬 77</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 150 &nbsp;&bull;&nbsp; 💬 92</sub></td>
 <td align="center" valign="middle" width="33%" height="32"><sub>❤️ 53 &nbsp;&bull;&nbsp; 💬 19</sub></td>
 </tr>
 </table>
