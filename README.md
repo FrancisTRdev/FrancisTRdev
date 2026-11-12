@@ -1,5 +1,6 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=69&section=header&reversal=false&text=Hey%20I'm%20Francis!&fontSize=40&fontColor=00FFFF&fontAlign=50&fontAlignY=30&stroke=-&animation=fadeIn&desc=Senior%20Full-Stack%20Developer&descSize=20&descAlign=50&descAlignY=90&textBg=false&theme=tokyonight"  />
+<div align="center">
+  <h1>Hi, My name is Francis!</h1>
+  <h3>Senior Full Stack Developer</h3>
 </div>
 
 ###
