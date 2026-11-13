@@ -43,7 +43,7 @@
 
 <table width="100%" cellpadding="10" cellspacing="0">
 <tr>
-<td align="center" valign="middle" width="33%"><a href="https://github.com/user-attachments/assets/b5e70584-9b63-4cc0-83e4-42a443986cbc"><img src="https://github.com/user-attachments/assets/b5e70584-9b63-4cc0-83e4-42a443986cbc" alt="HacktoberFest Completionist++" width="300" height="150"></a></td>
+<td align="center" valign="middle" width="33%"><a href="https://github.com/user-attachments/assets/b5e70584-9b63-4cc0-83e4-42a443986cbc"><img alt="Completionist++" src="https://github.com/user-attachments/assets/b189d149-fcac-464b-8347-a58b8d250885" /></a></td>
 <td align="center" valign="middle" width="33%"><a href="https://dev.to/francistrdev/i-used-google-gemini-for-the-first-time-a-deep-analysis-of-my-experience-so-far-2n12"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd8acmvqbt6nq2u10ddgq.gif" alt="Winner of the Google Gemini Writing Challenge" width="300" height="150"></a></td>
 <td align="center" valign="middle" width="33%"><a href="https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbs1jnzzm36f5cmj6048c.gif" alt="Dev.to's Official Help Guide" width="300" height="150"></a></td>
 </tr>
