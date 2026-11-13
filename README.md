@@ -41,11 +41,24 @@
 
 ## 🏆 Achievements
 
-| Category | Title / Description | 📅 Year |
-| :--- | :--- | :---: |
-| **🥇 Award** | [HacktoberFest Completionist++](https://github.com/user-attachments/assets/b5e70584-9b63-4cc0-83e4-42a443986cbc) | Fall 2026 |
-| **🥇 Award** | [Winner of the "Google Gemini Writing Challenge"](https://dev.to/francistrdev/i-used-google-gemini-for-the-first-time-a-deep-analysis-of-my-experience-so-far-2n12) | Spring 2026 |
-| **📝 Publication** | [Dev.to's Official Help Guide](https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach) | Spring 2026 |
+<table width="100%" cellpadding="10" cellspacing="0">
+<tr>
+<td align="center" valign="middle" width="33%"><a href="https://github.com/user-attachments/assets/b5e70584-9b63-4cc0-83e4-42a443986cbc"><img src="https://github.com/user-attachments/assets/b5e70584-9b63-4cc0-83e4-42a443986cbc" alt="HacktoberFest Completionist++" width="300" height="150"></a></td>
+<td align="center" valign="middle" width="33%"><a href="https://dev.to/francistrdev/i-used-google-gemini-for-the-first-time-a-deep-analysis-of-my-experience-so-far-2n12"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd8acmvqbt6nq2u10ddgq.gif" alt="Winner of the Google Gemini Writing Challenge" width="300" height="150"></a></td>
+<td align="center" valign="middle" width="33%"><a href="https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbs1jnzzm36f5cmj6048c.gif" alt="Dev.to's Official Help Guide" width="300" height="150"></a></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%" height="72"><strong><a href="https://github.com/user-attachments/assets/b5e70584-9b63-4cc0-83e4-42a443986cbc" title="HacktoberFest Completionist++">HacktoberFest Completionist++</a></strong></td>
+<td align="center" valign="top" width="33%" height="72"><strong><a href="https://dev.to/francistrdev/i-used-google-gemini-for-the-first-time-a-deep-analysis-of-my-experience-so-far-2n12" title="Winner of the &quot;Google Gemini Writing Challenge&quot;">Winner of the "Google Gemini Writing Challenge"</a></strong></td>
+<td align="center" valign="top" width="33%" height="72"><strong><a href="https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach" title="Dev.to's Official Help Guide">Dev.to's Official Help Guide</a></strong></td>
+</tr>
+<tr>
+<td align="center" valign="middle" width="33%" height="32"><sub>🥇 Award &nbsp;&bull;&nbsp; 📅 Fall 2026</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>🥇 Award &nbsp;&bull;&nbsp; 📅 Spring 2026</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>📝 Publication &nbsp;&bull;&nbsp; 📅 Spring 2026</sub></td>
+</tr>
+</table>
+
 
 ###
 
