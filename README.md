@@ -65,51 +65,26 @@
 
 ## 📝 Latest dev.to Articles
 <!-- ARTICLES:START -->
-<table width="100%" cellpadding="0" cellspacing="0">
+<table width="100%" cellpadding="10" cellspacing="0">
 <tr>
-<td width="100%" align="center">
-<a href="https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570">
-<img src="https://media2.dev.to/dynamic/image/width=1200,height=600,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzntffl3aqhcpzp0tgfvb.webp" alt="What are you Grateful for this Thanksgiving?" width="100%">
-</a>
-</td>
+<td align="center" valign="middle" width="33%"><a href="https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzntffl3aqhcpzp0tgfvb.webp" alt="What are you Grateful for this Thanksgiving?" width="100%"></a></td>
+<td align="center" valign="middle" width="33%"><a href="https://dev.to/devengers/what-does-dev-stand-for-2kg9"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0kixqo2mpzv9f8gn1vjk.gif" alt="What does DEV stand for?" width="100%"></a></td>
+<td align="center" valign="middle" width="33%"><a href="https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fluszw2338am8lh3sl1tu.png" alt="How do you truly stand out in Tech?" width="100%"></a></td>
 </tr>
 <tr>
-<td width="100%" align="left">
-<h3><a href="https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570" title="What are you Grateful for this Thanksgiving?">What are you Grateful for this Thanksgiving?</a></h3>
-<sub>📅 Nov 23 &nbsp;•&nbsp; ⏱️ 2 min read &nbsp;•&nbsp; ❤️ 85 &nbsp;•&nbsp; 💬 35</sub>
-</td>
-</tr>
-</table>
-<br>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr>
-<td width="100%" align="center">
-<a href="https://dev.to/devengers/what-does-dev-stand-for-2kg9">
-<img src="https://media2.dev.to/dynamic/image/width=1200,height=600,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0kixqo2mpzv9f8gn1vjk.gif" alt="What does DEV stand for?" width="100%">
-</a>
-</td>
+<td align="center" valign="top" width="33%" height="72"><strong><a href="https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570" title="What are you Grateful for this Thanksgiving?">What are you Grateful for this Thanksgiving?</a></strong></td>
+<td align="center" valign="top" width="33%" height="72"><strong><a href="https://dev.to/devengers/what-does-dev-stand-for-2kg9" title="What does DEV stand for?">What does DEV stand for?</a></strong></td>
+<td align="center" valign="top" width="33%" height="72"><strong><a href="https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a" title="How do you truly stand out in Tech?">How do you truly stand out in Tech?</a></strong></td>
 </tr>
 <tr>
-<td width="100%" align="left">
-<h3><a href="https://dev.to/devengers/what-does-dev-stand-for-2kg9" title="What does DEV stand for?">What does DEV stand for?</a></h3>
-<sub>📅 Nov 16 &nbsp;•&nbsp; ⏱️ 1 min read &nbsp;•&nbsp; ❤️ 203 &nbsp;•&nbsp; 💬 186</sub>
-</td>
-</tr>
-</table>
-<br>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr>
-<td width="100%" align="center">
-<a href="https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a">
-<img src="https://media2.dev.to/dynamic/image/width=1200,height=600,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fluszw2338am8lh3sl1tu.png" alt="How do you truly stand out in Tech?" width="100%">
-</a>
-</td>
+<td align="center" valign="middle" width="33%" height="32"><sub>📅 Nov 23 &nbsp;&bull;&nbsp; ⏱️ 2 min read</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>📅 Nov 16 &nbsp;&bull;&nbsp; ⏱️ 1 min read</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>📅 Nov 9 &nbsp;&bull;&nbsp; ⏱️ 8 min read</sub></td>
 </tr>
 <tr>
-<td width="100%" align="left">
-<h3><a href="https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a" title="How do you truly stand out in Tech?">How do you truly stand out in Tech?</a></h3>
-<sub>📅 Nov 9 &nbsp;•&nbsp; ⏱️ 8 min read &nbsp;•&nbsp; ❤️ 213 &nbsp;•&nbsp; 💬 113</sub>
-</td>
+<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 85 &nbsp;&bull;&nbsp; 💬 35</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 203 &nbsp;&bull;&nbsp; 💬 186</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 213 &nbsp;&bull;&nbsp; 💬 113</sub></td>
 </tr>
 </table>
 <p align="right">
