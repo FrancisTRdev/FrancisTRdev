@@ -3,13 +3,16 @@ const fs = require("fs");
 const USERNAME = "francistrdev";
 const COUNT = 3;
 const README_PATH = "README.md";
-const MAX_TITLE_LENGTH = 62;
+const MAX_TITLE_LENGTH = 90;
 
 const PLACEHOLDER =
   "https://raw.githubusercontent.com/github/explore/main/topics/devto/devto.png";
 
 /**
- * Returns a resized dev.to cover image.
+ * Returns the article cover image or a placeholder.
+ *
+ * DEV.to cover images may contain Cloudinary transformation
+ * parameters. Increasing their dimensions improves README quality.
  */
 function imageUrl(url) {
   if (!url) {
@@ -18,7 +21,7 @@ function imageUrl(url) {
 
   return url.replace(
     /width=\d+,height=\d+/,
-    "width=600,height=300"
+    "width=1200,height=600"
   );
 }
 
@@ -31,11 +34,11 @@ function escapeHtml(value = "") {
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;")
-    .replace(/'/g, "&#039;");
+    .replace(/'/g, "&#39;");
 }
 
 /**
- * Shortens long article titles so the cards stay aligned.
+ * Shortens long article titles.
  */
 function truncateTitle(title, maxLength = MAX_TITLE_LENGTH) {
   const normalizedTitle = String(title || "").trim();
@@ -84,58 +87,43 @@ function formatArticle(article) {
 }
 
 /**
- * Builds the complete GitHub-compatible article table.
+ * Builds one responsive article card.
  *
- * Important:
- * Do not add blank lines inside the HTML table.
- * GitHub Markdown can display the HTML as text when blank
- * lines interrupt a raw HTML block.
+ * GitHub does not support custom CSS or media queries in README files.
+ * A one-column table with a 100%-width image is the most reliable
+ * responsive layout across desktop and mobile.
+ *
+ * Do not add blank lines inside the table HTML. Blank lines can cause
+ * GitHub Markdown to display parts of the HTML as plain text.
  */
-function buildArticleTable(articles) {
-  const formattedArticles = articles.map(formatArticle);
+function buildArticleCard(article) {
+  return [
+    '<table width="100%" cellpadding="0" cellspacing="0">',
+    "<tr>",
+    '<td width="100%" align="center">',
+    `<a href="${article.url}">`,
+    `<img src="${article.image}" alt="${article.fullTitle}" width="100%">`,
+    "</a>",
+    "</td>",
+    "</tr>",
+    "<tr>",
+    '<td width="100%" align="left">',
+    `<h3><a href="${article.url}" title="${article.fullTitle}">${article.displayTitle}</a></h3>`,
+    `<sub>📅 ${article.publishDate} &nbsp;•&nbsp; ⏱️ ${article.readingTime} min read &nbsp;•&nbsp; ❤️ ${article.reactions} &nbsp;•&nbsp; 💬 ${article.comments}</sub>`,
+    "</td>",
+    "</tr>",
+    "</table>",
+  ].join("\n");
+}
 
-  const imageCells = formattedArticles
-    .map(
-      (article) =>
-        `<td align="center" valign="middle" width="33%"><a href="${article.url}"><img src="${article.image}" alt="${article.fullTitle}" width="300" height="150"></a></td>`
-    )
-    .join("\n");
-
-  const titleCells = formattedArticles
-    .map(
-      (article) =>
-        `<td align="center" valign="top" width="33%" height="72"><strong><a href="${article.url}" title="${article.fullTitle}">${article.displayTitle}</a></strong></td>`
-    )
-    .join("\n");
-
-  const detailCells = formattedArticles
-    .map(
-      (article) =>
-        `<td align="center" valign="middle" width="33%" height="32"><sub>📅 ${article.publishDate} &nbsp;&bull;&nbsp; ⏱️ ${article.readingTime} min read</sub></td>`
-    )
-    .join("\n");
-
-  const engagementCells = formattedArticles
-    .map(
-      (article) =>
-        `<td align="center" valign="middle" width="33%" height="32"><sub>❤️ ${article.reactions} &nbsp;&bull;&nbsp; 💬 ${article.comments}</sub></td>`
-    )
-    .join("\n");
-
-  return `<table width="100%" cellpadding="10" cellspacing="0">
-<tr>
-${imageCells}
-</tr>
-<tr>
-${titleCells}
-</tr>
-<tr>
-${detailCells}
-</tr>
-<tr>
-${engagementCells}
-</tr>
-</table>`;
+/**
+ * Builds the complete responsive article section.
+ */
+function buildArticleSection(articles) {
+  return articles
+    .map(formatArticle)
+    .map(buildArticleCard)
+    .join("\n<br>\n");
 }
 
 /**
@@ -143,7 +131,7 @@ ${engagementCells}
  */
 async function updateReadme() {
   const apiUrl =
-    `https://dev.to/api/articles` +
+    "https://dev.to/api/articles" +
     `?username=${encodeURIComponent(USERNAME)}` +
     `&per_page=${COUNT}`;
 
@@ -156,7 +144,7 @@ async function updateReadme() {
 
   if (!response.ok) {
     throw new Error(
-      `dev.to API request failed: ` +
+      "DEV.to API request failed: " +
         `${response.status} ${response.statusText}`
     );
   }
@@ -169,16 +157,18 @@ async function updateReadme() {
   }
 
   const selectedArticles = articles.slice(0, COUNT);
-  const articleTable = buildArticleTable(
+  const articleCards = buildArticleSection(
     selectedArticles
   );
 
-const articleSection = `<!-- ARTICLES:START -->
-
-${articleTable}
-
-<p align="right"><a href="https://dev.to/${USERNAME}"><strong>View all articles on dev.to →</strong></a></p>
-<!-- ARTICLES:END -->`;
+  const articleSection = [
+    "<!-- ARTICLES:START -->",
+    articleCards,
+    '<p align="right">',
+    `<a href="https://dev.to/${USERNAME}"><strong>View all articles on DEV.to →</strong></a>`,
+    "</p>",
+    "<!-- ARTICLES:END -->",
+  ].join("\n");
 
   if (!fs.existsSync(README_PATH)) {
     throw new Error(
@@ -223,7 +213,7 @@ ${articleTable}
 
   console.log(
     `✅ Wrote ${selectedArticles.length} ` +
-      `article card(s) to ${README_PATH}`
+      `responsive article card(s) to ${README_PATH}`
   );
 }
 
