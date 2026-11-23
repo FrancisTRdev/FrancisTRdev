@@ -68,24 +68,24 @@
 
 <table width="100%" cellpadding="10" cellspacing="0">
 <tr>
+<td align="center" valign="middle" width="33%"><a href="https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzntffl3aqhcpzp0tgfvb.webp" alt="What are you Grateful for this Thanksgiving?" width="300" height="150"></a></td>
 <td align="center" valign="middle" width="33%"><a href="https://dev.to/devengers/what-does-dev-stand-for-2kg9"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0kixqo2mpzv9f8gn1vjk.gif" alt="What does DEV stand for?" width="300" height="150"></a></td>
 <td align="center" valign="middle" width="33%"><a href="https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fluszw2338am8lh3sl1tu.png" alt="How do you truly stand out in Tech?" width="300" height="150"></a></td>
-<td align="center" valign="middle" width="33%"><a href="https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkdrg60peavzloceeysdp.png" alt="This is my first HacktoberFest, and I don&#039;t know what to feel." width="300" height="150"></a></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="33%" height="72"><strong><a href="https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570" title="What are you Grateful for this Thanksgiving?">What are you Grateful for this Thanksgiving?</a></strong></td>
 <td align="center" valign="top" width="33%" height="72"><strong><a href="https://dev.to/devengers/what-does-dev-stand-for-2kg9" title="What does DEV stand for?">What does DEV stand for?</a></strong></td>
 <td align="center" valign="top" width="33%" height="72"><strong><a href="https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a" title="How do you truly stand out in Tech?">How do you truly stand out in Tech?</a></strong></td>
-<td align="center" valign="top" width="33%" height="72"><strong><a href="https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f" title="This is my first HacktoberFest, and I don&#039;t know what to feel.">This is my first HacktoberFest, and I don&#039;t know what to feel.</a></strong></td>
 </tr>
 <tr>
+<td align="center" valign="middle" width="33%" height="32"><sub>📅 Nov 23 &nbsp;&bull;&nbsp; ⏱️ 2 min read</sub></td>
 <td align="center" valign="middle" width="33%" height="32"><sub>📅 Nov 16 &nbsp;&bull;&nbsp; ⏱️ 1 min read</sub></td>
 <td align="center" valign="middle" width="33%" height="32"><sub>📅 Nov 9 &nbsp;&bull;&nbsp; ⏱️ 8 min read</sub></td>
-<td align="center" valign="middle" width="33%" height="32"><sub>📅 Nov 2 &nbsp;&bull;&nbsp; ⏱️ 5 min read</sub></td>
 </tr>
 <tr>
-<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 202 &nbsp;&bull;&nbsp; 💬 185</sub></td>
-<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 212 &nbsp;&bull;&nbsp; 💬 113</sub></td>
-<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 151 &nbsp;&bull;&nbsp; 💬 92</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 81 &nbsp;&bull;&nbsp; 💬 33</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 202 &nbsp;&bull;&nbsp; 💬 186</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 213 &nbsp;&bull;&nbsp; 💬 113</sub></td>
 </tr>
 </table>
 
