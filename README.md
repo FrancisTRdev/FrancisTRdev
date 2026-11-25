@@ -101,4 +101,7 @@
   <a href="https://leetcode.com/FrancisTRdev" target="_blank"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="leetcode logo"  /></a>
 </div>
 
-<img src="village.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="village-dark.svg" />
+  <img alt="Contribution Village" src="village.svg" />
+</picture>
